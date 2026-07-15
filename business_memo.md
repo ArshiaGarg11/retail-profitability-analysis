@@ -1,8 +1,11 @@
 # Business Memo — Retail Profitability & Discount Impact Analysis
 
 **To:** Chief Revenue Officer, Superstore Inc.
+
 **From:** Business Analyst
+
 **Date:** June 2026
+
 **Re:** Profitability Analysis & Discount Strategy Review
 
 ## Overview
